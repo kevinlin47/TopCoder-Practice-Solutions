@@ -3,6 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/* Problem Statement
+You are creating a website where people can rate the quality of products. 
+Each rating is a number from 1 to 5, inclusive. 
+An average rating of a product is defined as the arithmetic average of all individual ratings that it received. 
+In other words, the average rating is the sum of all ratings divided by their count. 
+It is known that some product has received n1 ratings of 1, n2 ratings of 2, n3 ratings of 3, n4 ratings of 4 and n5 ratings of 5. 
+Return the average rating of this product.
+*/
 
 /**
  *
