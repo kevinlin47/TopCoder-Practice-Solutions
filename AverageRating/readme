@@ -1,0 +1,2 @@
+AverageRatingTest.java is a JUNIT test file that you can use to test various values for the Average function in the AverageRating.java file.
+It should pass all tests, since it passed the system test on topcoder website.
