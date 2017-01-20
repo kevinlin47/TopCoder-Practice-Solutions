@@ -3,6 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/*A teacher has just corrected a set of exams, and the marks are terrible! 
+He wants to make them higher, so he uses the following procedure to adjust the grades. 
+Let mmax be the highest mark. Each mark m will be changed to m/mmax*100. 
+For example, if the highest mark was 70 points, and you scored 50 points, your mark would become 50/70*100, which is approximately 71.43.
+You will be given a marks.The ith element of marks is the mark received by the ith student. 
+Compute the new marks for the students and return the average.
+*/
 
 /**
  *
